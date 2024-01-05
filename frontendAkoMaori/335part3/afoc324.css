@@ -1,0 +1,458 @@
+#cursor {
+     cursor : pointer; 
+     background-Color : #faf7a9; 
+
+}
+
+#logout{
+    margin-left:20px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#logout:hover{
+    color:blue;
+}
+
+
+#user-id{
+    background: #faf7a9;
+    float: right;
+    border-radius:5px;
+    padding:5px;
+    font-weight:bold; 
+}
+
+body {
+    background-Color : #ADD8E6;
+}
+.tabs {
+    
+    margin:20px;
+
+    padding:20px;
+     
+    border-radius: 50%;
+}
+
+#Guests iframe {
+    max-width:100%;
+    padding:20px;
+    margin-top:20px;
+    margin-left:20px;
+    width: 500px;
+    height: 300px;
+}
+
+
+#comlabel{
+    margin-top:-15px;
+    display:block;
+}
+
+
+
+#usernameandlabel{
+    padding-bottom:20px;
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+}
+
+#passwordandlabel{
+    display:flex;
+    font-size:30px;
+    justify-content:center;
+}
+
+
+#register{
+    padding:150px;
+    height:1px;
+    width:200px;
+    border-radius:30px;
+    margin: 0 auto;
+    background-color:#68b0be;
+}
+#registerstuff{
+    margin-top:-80px;
+}
+#registerpasswordandlabel{
+    display:flex;
+    font-size:30px;
+    justify-content:center;
+    padding-bottom:20px;
+}
+#registeraddress{
+    padding-bottom:20px;
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+}
+#registeruserandlabel{
+    margin-top:-120px;
+    padding-bottom:20px;
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+}
+
+#registerstuff input{
+    background-color: #c8f1fe;
+    border-radius:5px;
+    margin-left:10px;
+    padding:10px;
+}
+
+#registerclick{
+    
+    width:150px;
+}
+
+#registerfeedback{
+    width:300px;
+    margin: 0 auto;
+    padding:10px;
+    margin-left:-30px;
+    font-size:20px;
+
+}
+
+
+#loginstuff{
+    margin-top:-80px;
+}
+#loginclick{
+    margin-top:20px;
+    width:80px;
+    
+} 
+#loginfeedback{
+    width:400px;
+    font-size:20px;
+    margin-left:-10px;
+}
+#loginstuff input{
+    background-color: #c8f1fe;
+    border-radius:5px;
+    margin-left:10px;
+    padding:10px;
+}
+#login{   
+    
+    padding:150px;
+    height:50px;
+    width:100px;
+    border-radius:30px;
+    margin: 0 auto;
+    background-color:#68b0be;
+}
+
+
+
+#Events button{
+    background: #c8f1fe;
+    border-radius:3px;
+    font-size:15px;
+    margin-left:90px;
+}
+
+#search{
+    padding:5px;
+    border-radius:5px;
+    background: #c8f1fe;
+}
+
+
+#comment {
+    width:500px;
+    height:50px;
+    border-radius:10px;
+    display:block;
+    background: #c8f1fe;
+}
+
+#name {
+    border-radius:4px;
+    margin-left:10px;
+    height:20px;
+    background: #c8f1fe
+}
+
+#submitbut {
+    background-color:#ece646;
+    border-radius : 20px;
+    padding:10px;
+    margin-left: 40px;
+    margin-top:15px;
+    width:80px;
+
+}
+
+#text{
+    margin-top:50px;
+    width: 70%;
+    background-color:#0fb6d7;
+    padding:30px;
+    padding-bottom:90px;
+    margin-left:-20px;
+    border-radius: 0 20px 20px  0;
+}
+
+.Paragraphs{
+    background-color:#0fb6d7;
+    padding:50px;
+    padding-right:300px;
+    margin-top:20px;    
+    margin-left:-20px;
+    border-radius: 0 30px 30px 0;
+}
+
+#text p{
+ font-size:20px;
+}
+
+
+
+#Home img{
+    width:30px; 
+    height:30px;
+    padding:3px;
+}
+
+img {
+    width:300px;
+    height:300px;
+}
+
+
+#Home{
+    display : block;
+
+}
+
+#hometab {
+    background-color : #ece646;
+}
+
+
+
+#Guests{
+    display : none
+ 
+}
+
+#login{
+    display:none;
+}
+
+#register{
+    display:none;
+}
+
+
+
+#game {
+    display: none;
+}
+
+#user-id {
+    margin-top:0px;
+    text-align:right;
+    padding-right:20px;
+    margin-bottom:0px;
+}
+
+
+#game img {
+    max-width:100%;
+    height:auto;
+}
+
+
+
+
+#footer{
+    text-align:center;
+    position:fixed;
+    color:#ADD8E6;
+    bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    background-color: black; 
+    padding: 10px;
+    
+}
+
+
+#guesttab{
+    background-color : transparent;
+}
+
+#Shop{
+    display : none
+    
+}
+
+#shoptab{
+    background-color : transparent;
+}
+
+
+
+
+#shopItems{
+    width:500px;
+    background-color: #ADD8E6;
+    
+}
+
+.nextItem {
+    display:flex;
+}
+.nextItem h1 {
+    padding: 20px;
+}
+.nextItem button {
+    padding: 10px;
+    margin-left: 50px;
+}
+.nextItem p{
+    padding : 10px;
+}
+.container-div {
+    margin-left:-300px;
+    margin-top:80px;
+
+}
+
+.Paragraphs button{
+    width:200px;
+    height:50px;
+    margin-left:150px;
+    color:hotpink;
+    font-weight:bold;
+    font-size:25px;
+    background-color:#c8f1fe;
+    border-radius: 100px;
+    margin-bottom:0px;
+    margin-top:-100px;
+    display:flex;
+    justify-content:center;
+    cursor: pointer;
+}
+
+
+
+.details {
+    width: 300px;
+    margin-top:-10px;
+    padding:15px;
+    text-align:left;
+}
+
+.eventdiv {
+    border-radius:10px;
+    border: 5px solid black;
+    display: inline-block;
+    margin-left:20px;
+    margin-top:20px;
+    width:300px;
+    text-align:center;
+    border-color:black;
+    background: linear-gradient(to bottom, #fcfec8, #0fb6d7);
+
+}
+#topleftinstruct{
+    flex:30%;
+    margin-top:20px;
+    width: 450px;
+    background-color:#0fb6d7;
+    border-radius: 20px;
+    padding:20px;
+    padding-bottom:50px;
+    height: 360px;
+}
+
+#topleftinstruct button{
+    background-color: #68b0be;
+    padding: 10px 20px; 
+  border: 1px transparent #2b4c53;
+  border-radius: 5px; 
+  cursor: pointer;
+}
+
+
+#game2{
+    display:flex
+}
+
+#wholegame{
+    flex: 70%;
+  place-items: center;
+    text-align:center;
+    padding:40px;
+    margin-top:-20px;
+}
+
+#Home h1{
+    text-align:center;
+    color: #221e5d; 
+}
+
+
+#score{
+    text-align: center;
+    font-size: 50px;
+    color:pink;
+    margin-top:10px;
+}
+
+#gametable{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+    background-color:#c8f1fe;
+}
+
+.tableheader{
+  font-weight: bold;
+  padding: 10px;
+  
+   
+  border: 1px solid black;
+}
+
+.tableitem {
+    padding: 10px;
+    border: 1px solid black;
+  }
+
+.answercolumn {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease; 
+}
+
+
+#popup {
+   
+    display:none;   
+    position:fixed;
+    top: 500px;
+    left:250px;
+    background: #f5f6cd;
+    border-radius:80px;
+    padding:5px;
+}
+#popuptext{
+    color:black;
+    font-size:30px;
+}
